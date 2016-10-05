@@ -1,0 +1,12 @@
+{
+  "public": {
+    "ga": {
+      "account": "UA-KDLJOEIWHFDJLKJ-X"
+    }
+  },
+  "private": {
+    "stripe": {
+      "apiPrivate": "fdasfhewqiufalkjsdf"
+    }
+  }
+}
